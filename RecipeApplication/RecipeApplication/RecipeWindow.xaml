@@ -1,0 +1,25 @@
+﻿<Window x:Class="RecipeApplication.RecipeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Recipe" Height="400" Width="600">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Enter details for the recipe" FontSize="16" FontWeight="Bold" Margin="0,0,0,10"/>
+            <TextBox Name="RecipeNameTextBox" Text="Enter recipe name" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Ingredients" FontSize="14" FontWeight="Bold" Margin="0,0,0,10"/>
+            <StackPanel Name="IngredientsPanel" Margin="0,0,0,10">
+                <!-- Ingredient input fields will be automatically added here -->
+            </StackPanel>
+            <Button Content="Add Ingredient" Click="AddIngredient_Click" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Steps" FontSize="14" FontWeight="Bold" Margin="0,0,0,10"/>
+            <StackPanel Name="StepsPanel" Margin="0,0,0,10">
+                <!-- Step input fields will be automatically added here -->
+            </StackPanel>
+            <Button Content="Add Step" Click="AddStep_Click" Margin="0,0,0,10"/>
+
+            <Button Content="Save Recipe" Click="SaveRecipe_Click" Margin="0,20,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

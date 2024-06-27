@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|c:\\users\\hp\\source\\repos\\recipeapplication\\recipeapplication\\scalerecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|solutionrelative:recipeapplication\\scalerecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|c:\\users\\hp\\source\\repos\\recipeapplication\\recipeapplication\\recipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|solutionrelative:recipeapplication\\recipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|c:\\users\\hp\\source\\repos\\recipeapplication\\recipeapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|solutionrelative:recipeapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|c:\\users\\hp\\source\\repos\\recipeapplication\\recipeapplication\\displayrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|solutionrelative:recipeapplication\\displayrecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|c:\\users\\hp\\source\\repos\\recipeapplication\\recipeapplication\\displayrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|solutionrelative:recipeapplication\\displayrecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|c:\\users\\hp\\source\\repos\\recipeapplication\\recipeapplication\\scalerecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|solutionrelative:recipeapplication\\scalerecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|c:\\users\\hp\\source\\repos\\recipeapplication\\recipeapplication\\recipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|solutionrelative:recipeapplication\\recipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|c:\\users\\hp\\source\\repos\\recipeapplication\\recipeapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|solutionrelative:recipeapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|c:\\users\\hp\\source\\repos\\recipeapplication\\recipeapplication\\models\\recipestep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|solutionrelative:recipeapplication\\models\\recipestep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|c:\\users\\hp\\source\\repos\\recipeapplication\\recipeapplication\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|solutionrelative:recipeapplication\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|c:\\users\\hp\\source\\repos\\recipeapplication\\recipeapplication\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6B8E88-628B-4EEE-ACF6-A4CBBD47C7F2}|RecipeApplication\\RecipeApplication.csproj|solutionrelative:recipeapplication\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\First_GUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 320,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 80,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScaleRecipe.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\ScaleRecipe.xaml",
+              "RelativeDocumentMoniker": "RecipeApplication\\ScaleRecipe.xaml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\ScaleRecipe.xaml",
+              "RelativeToolTip": "RecipeApplication\\ScaleRecipe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T16:40:11.241Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScaleRecipe.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\ScaleRecipe.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApplication\\ScaleRecipe.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\ScaleRecipe.xaml.cs",
+              "RelativeToolTip": "RecipeApplication\\ScaleRecipe.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:46:14.09Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisplayRecipe.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\DisplayRecipe.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApplication\\DisplayRecipe.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\DisplayRecipe.xaml.cs",
+              "RelativeToolTip": "RecipeApplication\\DisplayRecipe.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:54:03.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecipeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\RecipeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApplication\\RecipeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\RecipeWindow.xaml.cs",
+              "RelativeToolTip": "RecipeApplication\\RecipeWindow.xaml.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwJgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T16:46:26.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayRecipe.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\DisplayRecipe.xaml",
+              "RelativeDocumentMoniker": "RecipeApplication\\DisplayRecipe.xaml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\DisplayRecipe.xaml",
+              "RelativeToolTip": "RecipeApplication\\DisplayRecipe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T13:45:27.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RecipeApplication\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\MainWindow.xaml",
+              "RelativeToolTip": "RecipeApplication\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T16:20:39.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\RecipeWindow.xaml",
+              "RelativeDocumentMoniker": "RecipeApplication\\RecipeWindow.xaml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\RecipeWindow.xaml",
+              "RelativeToolTip": "RecipeApplication\\RecipeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T16:38:26.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RecipeApplication\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RecipeApplication\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwD8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:51:24.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecipeStep.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\Models\\RecipeStep.cs",
+              "RelativeDocumentMoniker": "RecipeApplication\\Models\\RecipeStep.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\Models\\RecipeStep.cs",
+              "RelativeToolTip": "RecipeApplication\\Models\\RecipeStep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:05:47.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "RecipeApplication\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\Models\\Recipe.cs",
+              "RelativeToolTip": "RecipeApplication\\Models\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:06:07.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "RecipeApplication\\Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\RecipeApplication\\RecipeApplication\\Models\\Ingredient.cs",
+              "RelativeToolTip": "RecipeApplication\\Models\\Ingredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:05:16.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "First_GUI.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\First_GUI.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\First_GUI.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\First_GUI.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\First_GUI.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAF8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:55:15.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

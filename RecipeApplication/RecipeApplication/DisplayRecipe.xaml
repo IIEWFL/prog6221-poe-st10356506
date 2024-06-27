@@ -1,0 +1,24 @@
+﻿  <!--Create the window for displaying the recipe-->
+<!--https://www.youtube.com/watch?v=4DZZadT2RPs-->
+<Window x:Class="RecipeApplication.DisplayRecipe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DisplayRecipe" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Recipe Details" FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Recipe Name:" FontWeight="Bold"/>
+            <TextBlock x:Name="RecipeName" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Ingredients:" FontWeight="Bold"/>
+            <ListBox x:Name="IngredientsListBox" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Steps:" FontWeight="Bold"/>
+            <ListBox x:Name="StepsListBox" Margin="0,0,0,10"/>
+            
+            <TextBlock x:Name="CaloriesWarning" FontSize="14" Foreground="Red" Visibility="Collapsed" Margin="10,0,0,0"/>
+        </StackPanel>
+        
+    </Grid>
+</Window>
