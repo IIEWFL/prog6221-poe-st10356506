@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_HngrSiy)
 # Recipe Application
 
-This Application allows users to create, display, scale, reset quantities, and clear recipes with a recipe book theme.
+This Application allows users to create, display, scale, reset quantities, and filter recipes with a recipe book theme.
 
 ## Functions
 
@@ -17,17 +17,17 @@ Users can scale the recipe by any amount (including 0.5, 2, and 3).
 ### Reset Quantities
 Users can reset quantities back to the original quantities after scaling them.
 
-### Clear Recipe
-Users can clear the recipe, which permanently deletes the recipe.
+### Filter Recipe
+User can filter recipes by the ingredient name, calories, and food group
 
-### Exit Application
-Users can exit the application by selecting quit.
+### Clear Filter
+User can clear the filter and display all recipes
 
 ## How to Use
 
 1. Clone the repository onto your local machine.
 2. Open Command Prompt.
-3. Navigate to the `PROG6211PART2` folder, then to `PROG6211PART2.sln`.
+3. Navigate to the `RecipeApplication` folder, then to `RecipeApplication.sln`.
 4. Open the project in Visual Studio.
 5. Run the application.
 6. Once running, the user will be greeted with a menu containing all the actions that can be completed by the application.
